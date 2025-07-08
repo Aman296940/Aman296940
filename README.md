@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Aman Bajoria
 
-<!--
-**Aman296940/Aman296940** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergrad Electrical Engineering student, passionate about building full-stack apps, experimenting with AI, and visualizing complex systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I'm Building
+
+- **AI_Interview_Coach**  
+  An AI-powered tool that provides real-time feedback on interview answers. Built with a focus on user interaction and smart evaluation.
+
+- **Graph-Visualiser**  
+  A clean and interactive way to visualize graph algorithms like BFS, DFS, and Dijkstra using JavaScript.
+
+- **Chess-App**  
+  A simple and fun two-player chess game built from scratch in JavaScript. Focused on real-time move logic and piece validation.
+
+- **SnapBoard**  
+  A collaborative note/whiteboard-like app using EJS templating. Aimed at improving brainstorming and real-time sharing.
+
+---
+
+### 🛠️ Tech I Use
+
+- **Languages:** C++, JavaScript
+- **Frontend:** HTML, CSS, JavaScript, EJS
+- **Backend:** Node.js, Express
+- **Tools:** Git, VS Code, MongoDB (if used), Postman
+
+---
+
+### 🎯 Currently Learning
+
+- Improving backend architecture and testing
+- System design & CS fundamentals for placement prep
+- Making UIs smoother and more responsive
+
+---
+
+### 📫 Let's Connect
+
+- 📧 Email: aman.bajoria.eee20@iitbhu.ac.in  
+- 💼 [LinkedIn](https://linkedin.com/in/your-link) *(replace with real link)*  
+- 🧩 [Codeforces](https://codeforces.com/profile/your-handle)  
+- 💻 [LeetCode](https://leetcode.com/your-leetcode)
+
+---
+
+Thanks for visiting my profile! Always happy to collaborate and build cool things 🚀
