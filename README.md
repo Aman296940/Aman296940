@@ -50,12 +50,12 @@ I'm an **Electrical Engineering undergraduate** at **IIT BHU**, passionate about
       <h3 align="center">🤖 AI Interview Coach</h3>
       <div align="center">  
         <a href="https://github.com/Aman296940/AI_Interview_Coach" target="_blank"><img src="https://img.shields.io/badge/Code-View%20Project-blue?style=for-the-badge&logo=github" /></a>
-        <p><strong>JavaScript, Node.js, AI Integration</strong></p>
-        <p>An intelligent AI-powered tool that provides real-time feedback on interview answers. Features smart evaluation algorithms and intuitive user interactions for interview preparation.</p>
+        <p><strong>JavaScript, AI Integration</strong></p>
+        <p>An AI powered Interview coach which provides real time feedback on interview responses. Built with focus on intelligent evaluation and user-friendly interactions.</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">📊 Graph Visualizer</h3>
+      <h3 align="center">📊 Graph Visualiser</h3>
       <div align="center">
         <a href="https://github.com/Aman296940/Graph-Visualiser" target="_blank"><img src="https://img.shields.io/badge/Code-View%20Project-blue?style=for-the-badge&logo=github" /></a>
         <p><strong>JavaScript, D3.js, Algorithms</strong></p>
@@ -65,19 +65,19 @@ I'm an **Electrical Engineering undergraduate** at **IIT BHU**, passionate about
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">♟️ Chess App</h3>
+      <h3 align="center">🌐 Language Translator</h3>
       <div align="center">
-        <a href="https://github.com/Aman296940/Chess-App" target="_blank"><img src="https://img.shields.io/badge/Code-View%20Project-blue?style=for-the-badge&logo=github" /></a>
-        <p><strong>JavaScript, Game Logic, Real-time</strong></p>
-        <p>A fully functional two-player chess game built from scratch. Features complete move validation, piece logic, and an intuitive game interface for seamless gameplay.</p>
+        <a href="https://github.com/Aman296940/Language_Translator" target="_blank"><img src="https://img.shields.io/badge/Code-View%20Project-blue?style=for-the-badge&logo=github" /></a>
+        <p><strong>JavaScript, Translation API</strong></p>
+        <p>A powerful language translation tool that enables seamless communication across different languages. Features real-time translation with support for multiple languages.</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">📝 SnapBoard</h3>
+      <h3 align="center">📝 Text Summarizer</h3>
       <div align="center">
-        <a href="https://github.com/Aman296940/SnapBoard" target="_blank"><img src="https://img.shields.io/badge/Code-View%20Project-blue?style=for-the-badge&logo=github" /></a>
-        <p><strong>EJS, Node.js, Collaboration</strong></p>
-        <p>Collaborative whiteboard application with real-time sharing capabilities. Perfect for brainstorming sessions and team collaboration with responsive design.</p>
+        <a href="https://github.com/Aman296940/Text-Summarizer" target="_blank"><img src="https://img.shields.io/badge/Code-View%20Project-blue?style=for-the-badge&logo=github" /></a>
+        <p><strong>Python, NLP, Machine Learning</strong></p>
+        <p>An intelligent text summarization tool that extracts key information from large documents. Uses advanced NLP techniques to provide concise and meaningful summaries.</p>
       </div>
     </td>
   </tr>
