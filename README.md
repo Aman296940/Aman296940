@@ -27,7 +27,6 @@ I'm an **Electrical Engineering undergraduate** at **IIT BHU**, passionate about
 ### Frontend
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![EJS](https://img.shields.io/badge/EJS-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
-![D3.js](https://img.shields.io/badge/D3.js-%23F9A03C.svg?style=for-the-badge&logo=d3.js&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
