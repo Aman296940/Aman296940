@@ -55,11 +55,11 @@ I'm an **Electrical Engineering undergraduate** at **IIT BHU**, passionate about
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">📊 Graph Visualiser</h3>
+      <h3 align="center">🌐 Translation App using Transformers</h3>
       <div align="center">
         <a href="https://github.com/Aman296940/Graph-Visualiser" target="_blank"><img src="https://img.shields.io/badge/Code-View%20Project-blue?style=for-the-badge&logo=github" /></a>
-        <p><strong>JavaScript, D3.js, Algorithms</strong></p>
-        <p>Interactive visualization tool for graph algorithms including BFS, DFS, and Dijkstra. Clean interface with real-time algorithm execution and step-by-step visualization.</p>
+        <p><strong>Python, Transformers, NLP, Machine Learning</strong></p>
+        <p>Advanced translation application powered by transformer models. Leverages state-of-the-art NLP techniques for accurate and context-aware language translation across multiple language pairs.</p>
       </div>
     </td>
   </tr>
