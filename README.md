@@ -57,7 +57,7 @@ I'm an **Electrical Engineering undergraduate** at **IIT BHU**, passionate about
     <td width="50%">
       <h3 align="center">🌐 Translation App using Transformers</h3>
       <div align="center">
-        <a href="[https://github.com/Aman296940/Translation-App-using-Transformers](https://github.com/Aman296940/language_translator)" target="_blank"><img src="https://img.shields.io/badge/Code-View%20Project-blue?style=for-the-badge&logo=github" /></a>
+        <a href="https://github.com/Aman296940/language_translator" target="_blank"><img src="https://img.shields.io/badge/Code-View%20Project-blue?style=for-the-badge&logo=github" /></a>
         <p><strong>Python, Transformers, NLP, Machine Learning</strong></p>
         <p>Advanced translation application powered by transformer models. Leverages state-of-the-art NLP techniques for accurate and context-aware language translation across multiple language pairs.</p>
       </div>
