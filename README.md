@@ -86,10 +86,10 @@ I'm an **Electrical Engineering undergraduate** at **IIT BHU**, passionate about
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-aman.bajoria.eee20%40iitbhu.ac.in-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman.bajoria.eee20@iitbhu.ac.in)
+[![Email](https://img.shields.io/badge/Email-aman.bajoria.eee22%40iitbhu.ac.in-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman.bajoria.eee22@itbhu.ac.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-yellow?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your-handle)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-leetcode)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-yellow?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_aman_bajoria_)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/aman_bajoria_/)
 
 </div>
 
